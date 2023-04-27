@@ -1,0 +1,423 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Words xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Word>
+    <Name>Kale</Name>
+    <Hint>Savaş veya savunma amaçlı yapılan büyük taş yapı</Hint>
+  </Word>
+  <Word>
+    <Name>Saat</Name>
+    <Hint>Zamanı ölçmek için kullanılan bir alet</Hint>
+  </Word>
+  <Word>
+    <Name>Yüzük</Name>
+    <Hint>Parmağa takılan bir mücevher</Hint>
+  </Word>
+  <Word>
+    <Name>Güneş</Name>
+    <Hint>Güneş sisteminin ana yıldızı</Hint>
+  </Word>
+  <Word>
+    <Name>Gözlük</Name>
+    <Hint>Görüşü düzeltmek için kullanılan bir alet</Hint>
+  </Word>
+  <Word>
+    <Name>Kırlangıç</Name>
+    <Hint>Küçük bir kuş türü</Hint>
+  </Word>
+  <Word>
+    <Name>Balık</Name>
+    <Hint>Su ortamında yaşayan bir hayvan</Hint>
+  </Word>
+  <Word>
+    <Name>Güvercin</Name>
+    <Hint>Küçük bir kuş türü</Hint>
+  </Word>
+  <Word>
+    <Name>Çekiç</Name>
+    <Hint>Çivi çakmak veya bir nesneyi vurmak için kullanılan bir araç</Hint>
+  </Word>
+  <Word>
+    <Name>Meyve</Name>
+    <Hint>Tatlı ve genellikle yenilebilen bir bitkinin yenilebilir kısmı</Hint>
+  </Word>
+  <Word>
+    <Name>Yılan</Name>
+    <Hint>Zehirli veya zehirsiz olabilen sürüngen bir hayvan</Hint>
+  </Word>
+  <Word>
+    <Name>Rüzgar</Name>
+    <Hint>Havada hareket eden hava akımı</Hint>
+  </Word>
+  <Word>
+    <Name>Bardak</Name>
+    <Hint>İçecekleri içmek için kullanılan bir kap</Hint>
+  </Word>
+  <Word>
+    <Name>Fincan</Name>
+    <Hint>Kahve veya çay içmek için kullanılan küçük bir kap</Hint>
+  </Word>
+  <Word>
+    <Name>İşaret</Name>
+    <Hint>Anlamı gösteren bir sembol</Hint>
+  </Word>
+  <Word>
+    <Name>Kitaplık</Name>
+    <Hint>Kitapların saklandığı bir mobilya</Hint>
+  </Word>
+  <Word>
+    <Name>Şampuan</Name>
+    <Hint>Saç temizliği için kullanılan bir sıvı</Hint>
+  </Word>
+  <Word>
+    <Name>Kırmızıbiber</Name>
+    <Hint>Acı veya tatlı olabilen bir baharat</Hint>
+  </Word>
+  <Word>
+    <Name>Zürafa</Name>
+    <Hint>Uzun boynu ile tanınan bir hayvan türü</Hint>
+  </Word>
+  <Word>
+    <Name>Karpuz</Name>
+    <Hint>Tatlı bir meyve</Hint>
+  </Word>
+  <Word>
+    <Name>Teleskop</Name>
+    <Hint>Gökyüzündeki nesneleri gözlemlemek için kullanılan bir araç</Hint>
+  </Word>
+  <Word>
+    <Name>Gazete</Name>
+    <Hint>Güncel olaylar hakkında bilgi veren bir yayın</Hint>
+  </Word>
+  <Word>
+    <Name>Bisiklet</Name>
+    <Hint>İki tekerlekli bir araç</Hint>
+  </Word>
+  <Word>
+    <Name>Fotoğraf makinesi</Name>
+    <Hint>Görüntüleri kaydetmek için kullanılan bir cihaz</Hint>
+  </Word>
+  <Word>
+    <Name>Fıstık</Name>
+    <Hint>Küçük ve lezzetli bir yemiş</Hint>
+  </Word>
+  <Word>
+    <Name>Tavşan</Name>
+    <Hint>Küçük bir kemirgen hayvan</Hint>
+  </Word>
+  <Word>
+    <Name>Gitar</Name>
+    <Hint>Tellere vurarak müzik çalmak için kullanılan bir araç</Hint>
+  </Word>
+  <Word>
+    <Name>Çorap</Name>
+    <Hint>Ayakları sıcak tutmak için giyilen bir giysi</Hint>
+  </Word>
+  <Word>
+    <Name>Kavanoz</Name>
+    <Hint>Yiyecek veya içecekleri saklamak için kullanılan cam veya plastik bir kap</Hint>
+  </Word>
+  <Word>
+    <Name>Voleybol</Name>
+    <Hint>Takımlar arasında oynanan bir top oyunu</Hint>
+  </Word>
+  <Word>
+    <Name>İnek</Name>
+    <Hint>Süt ve et için yetiştirilen büyük bir hayvan</Hint>
+  </Word>
+  <Word>
+    <Name>Kamp</Name>
+    <Hint>Doğada kalmak ve açık havada dinlenmek için yapılan bir aktivite</Hint>
+  </Word>
+  <Word>
+    <Name>Müze</Name>
+    <Hint>Sanat ve tarih eserlerinin sergilendiği bir yer</Hint>
+  </Word>
+  <Word>
+    <Name>Çatal</Name>
+    <Hint>Yemek yemek için kullanılan bir araç</Hint>
+  </Word>
+  <Word>
+    <Name>Kış</Name>
+    <Hint>Soğuk mevsim</Hint>
+  </Word>
+  <Word>
+    <Name>Koltuk</Name>
+    <Hint>Oturmak için kullanılan bir mobilya</Hint>
+  </Word>
+  <Word>
+    <Name>Örümcek</Name>
+    <Hint>Uzun bacakları ve ağ dokuması ile tanınan bir hayvan türü</Hint>
+  </Word>
+  <Word>
+    <Name>Elma</Name>
+    <Hint>Tatlı veya ekşi bir meyve</Hint>
+  </Word>
+  <Word>
+    <Name>Yağmur</Name>
+    <Hint>Bulutlardan düşen su damlaları</Hint>
+  </Word>
+  <Word>
+    <Name>Cüzdan</Name>
+    <Hint>Para ve kartları saklamak için kullanılan bir aksesuar</Hint>
+  </Word>
+  <Word>
+    <Name>Oje</Name>
+    <Hint>Tırnakların renklendirilmesi için kullanılan bir kozmetik ürün</Hint>
+  </Word>
+  <Word>
+    <Name>Göl</Name>
+    <Hint>Büyük bir su birikintisi</Hint>
+  </Word>
+  <Word>
+    <Name>Uçurtma</Name>
+    <Hint>Rüzgarı kullanarak uçurulan ve bir kağıt veya kumaştan yapılmış obje</Hint>
+  </Word>
+  <Word>
+    <Name>Buzdolabı</Name>
+    <Hint>Yiyecekleri soğuk tutmak için kullanılan bir alet</Hint>
+  </Word>
+  <Word>
+    <Name>Gece lambası</Name>
+    <Hint>Yatak odasında gece boyunca ışık veren bir aydınlatma aracı</Hint>
+  </Word>
+  <Word>
+    <Name>Güneş gözlüğü</Name>
+    <Hint>Gözleri güneş ışınlarından korumak için kullanılan bir aksesuar</Hint>
+  </Word>
+  <Word>
+    <Name>Kitap</Name>
+    <Hint>Bilgi edinmek veya eğlenmek için okunan bir yazılı materyal</Hint>
+  </Word>
+  <Word>
+    <Name>Çiçek</Name>
+    <Hint>Renkli ve güzel görünümleri ile tanınan bitki türleri</Hint>
+  </Word>
+  <Word>
+    <Name>Sabun</Name>
+    <Hint>Temizlik için kullanılan bir araç</Hint>
+  </Word>
+  <Word>
+    <Name>Tenis</Name>
+    <Hint>Top ve raket kullanarak oynanan bir spor dalı</Hint>
+  </Word>
+  <Word>
+    <Name>Fener</Name>
+    <Hint>Kullanılan ortamın karanlık olduğu zamanlarda aydınlatma amaçlı kullanılan bir araç</Hint>
+  </Word>
+  <Word>
+    <Name>Karavan</Name>
+    <Hint>Seyahat etmek için kullanılan taşınabilir bir ev</Hint>
+  </Word>
+  <Word>
+    <Name>Kaya tırmanışı</Name>
+    <Hint>Kaya yüzeylerine tırmanarak yapılan bir spor dalı</Hint>
+  </Word>
+  <Word>
+    <Name>Kova</Name>
+    <Hint>Su veya başka sıvıları taşımak için kullanılan bir kap</Hint>
+  </Word>
+  <Word>
+    <Name>Denizanası</Name>
+    <Hint>Denizlerde yaşayan bir tür deniz canlısı</Hint>
+  </Word>
+  <Word>
+    <Name>Kalem</Name>
+    <Hint>Yazı yazmak veya çizim yapmak için kullanılan bir araç</Hint>
+  </Word>
+  <Word>
+    <Name>Kütüphane</Name>
+    <Hint>Kitapları ödünç alabileceğiniz veya okuyabileceğiniz bir yer</Hint>
+  </Word>
+  <Word>
+    <Name>Güneşlenmek</Name>
+    <Hint>Güneşin ısısından yararlanarak vücudun bronzlaşması için yapılan bir aktivite</Hint>
+  </Word>
+  <Word>
+    <Name>Kahve</Name>
+    <Hint>Kafein içeren bir içecek</Hint>
+  </Word>
+  <Word>
+    <Name>Duvar saati</Name>
+    <Hint>Saati gösteren bir duvar süsü</Hint>
+  </Word>
+  <Word>
+    <Name>Ayakkabı</Name>
+    <Hint>Ayakları korumak ve giyinmek için kullanılan bir aksesuar</Hint>
+  </Word>
+  <Word>
+    <Name>Kıyafet</Name>
+    <Hint>Vücudu kaplamak veya süslemek için giyilen giysiler</Hint>
+  </Word>
+  <Word>
+    <Name>Ayçiçeği</Name>
+    <Hint>Sarı çiçekleri olan bir bitki</Hint>
+  </Word>
+  <Word>
+    <Name>Çamaşır makinesi</Name>
+    <Hint>Evde çamaşır yıkamak için kullanılan bir makine</Hint>
+  </Word>
+  <Word>
+    <Name>Yolcu gemisi</Name>
+    <Hint>Denizde yolcu taşımak için kullanılan büyük bir gemi</Hint>
+  </Word>
+  <Word>
+    <Name>Çikolata</Name>
+    <Hint>Kakao tohumlarından yapılan tatlı bir yiyecek</Hint>
+  </Word>
+  <Word>
+    <Name>Akvaryum</Name>
+    <Hint>Balıkların ve diğer su canlılarının yaşadığı bir cam veya plastik tank</Hint>
+  </Word>
+  <Word>
+    <Name>Saç kurutma makinesi</Name>
+    <Hint>Islak saçları kurutmak için kullanılan bir alet</Hint>
+  </Word>
+  <Word>
+    <Name>Tren</Name>
+    <Hint>Raylar üzerinde hareket eden bir toplu taşıma aracı</Hint>
+  </Word>
+  <Word>
+    <Name>Çatı</Name>
+    <Hint>Bir evin veya binanın üstünü örten yapı</Hint>
+  </Word>
+  <Word>
+    <Name>Cetvel</Name>
+    <Hint>Uzunluğu veya mesafeyi ölçmek için kullanılan bir araç</Hint>
+  </Word>
+  <Word>
+    <Name>Gölge</Name>
+    <Hint>Işığın düştüğü bir yüzeyin arkasında kalan karanlık bölge</Hint>
+  </Word>
+  <Word>
+    <Name>Duvar kağıdı</Name>
+    <Hint>Duvarları kaplamak için kullanılan bir dekorasyon malzemesi</Hint>
+  </Word>
+  <Word>
+    <Name>Şemsiye</Name>
+    <Hint>Yağmurdan korunmak için kullanılan bir araç</Hint>
+  </Word>
+  <Word>
+    <Name>Tornavida</Name>
+    <Hint>Vidaları sıkıp gevşetmek için kullanılan bir araç</Hint>
+  </Word>
+  <Word>
+    <Name>Avize</Name>
+    <Hint>Tavana veya duvara asılan bir dekoratif aydınlatma aracı</Hint>
+  </Word>
+  <Word>
+    <Name>Kask</Name>
+    <Hint>Kafayı korumak için giyilen bir koruyucu başlık</Hint>
+  </Word>
+  <Word>
+    <Name>Yağmurluk</Name>
+    <Hint>Yağmur yağdığında giyilen bir su geçirmez giysi</Hint>
+  </Word>
+  <Word>
+    <Name>Akordeon</Name>
+    <Hint>Sıkıştırma ve genişletme hareketleriyle müzik yapmak için kullanılan bir müzik aleti</Hint>
+  </Word>
+  <Word>
+    <Name>Pil</Name>
+    <Hint>Elektronik cihazları çalıştırmak için kullanılan bir güç kaynağı</Hint>
+  </Word>
+  <Word>
+    <Name>Diş fırçası</Name>
+    <Hint>Dişleri temizlemek için kullanılan bir araç</Hint>
+  </Word>
+  <Word>
+    <Name>Anahtar</Name>
+    <Hint>Kilitleri açmak ve kapamak için kullanılan bir araç</Hint>
+  </Word>
+  <Word>
+    <Name>Diş ipi</Name>
+    <Hint>Diş aralarını temizlemek için kullanılan bir araç</Hint>
+  </Word>
+  <Word>
+    <Name>Perde</Name>
+    <Hint>Pencere veya kapıları örtmek için kullanılan bir kumaş parçası</Hint>
+  </Word>
+  <Word>
+    <Name>Karides</Name>
+    <Hint>Kabuklu bir deniz canlısı</Hint>
+  </Word>
+  <Word>
+    <Name>Elmas</Name>
+    <Hint>Değerli bir taş</Hint>
+  </Word>
+  <Word>
+    <Name>Gökkuşağı</Name>
+    <Hint>Yağmur sonrası oluşan renkli bir doğal oluşum</Hint>
+  </Word>
+  <Word>
+    <Name>Kartpostal</Name>
+    <Hint>Tatil yerlerinden gönderilen bir posta kartı</Hint>
+  </Word>
+  <Word>
+    <Name>Kalp</Name>
+    <Hint>Vücutta bulunan bir organ</Hint>
+  </Word>
+  <Word>
+    <Name>Karga</Name>
+    <Hint>Siyah tüyleri olan büyük bir kuş türü</Hint>
+  </Word>
+  <Word>
+    <Name>Hastane</Name>
+    <Hint>Hastaların tedavi edildiği bir kuruluş</Hint>
+  </Word>
+  <Word>
+    <Name>Ceviz</Name>
+    <Hint>Kabuğu ve içi olan bir yemiş</Hint>
+  </Word>
+  <Word>
+    <Name>Yelkenli</Name>
+    <Hint>Rüzgarın gücüyle hareket eden bir tekne türü</Hint>
+  </Word>
+  <Word>
+    <Name>Kumbara</Name>
+    <Hint>Paraları biriktirmek için kullanılan küçük kap</Hint>
+  </Word>
+  <Word>
+    <Name>Fare</Name>
+    <Hint>Küçük bir kemirgen türü</Hint>
+  </Word>
+  <Word>
+    <Name>Sandalye</Name>
+    <Hint>Oturmak için yapılmış bir mobilya</Hint>
+  </Word>
+  <Word>
+    <Name>Orkestra</Name>
+    <Hint>Birçok müzisyenden oluşan bir grup</Hint>
+  </Word>
+  <Word>
+    <Name>Tabak</Name>
+    <Hint>Yiyeceklerin konulduğu bir kap</Hint>
+  </Word>
+  <Word>
+    <Name>Limon</Name>
+    <Hint>Turunçgil ailesinden bir meyve</Hint>
+  </Word>
+  <Word>
+    <Name>Tiyatro</Name>
+    <Hint>Canlı performansların yapıldığı bir sahne</Hint>
+  </Word>
+  <Word>
+    <Name>Turako</Name>
+    <Hint>Bir kuş çeşidi</Hint>
+  </Word>
+  <Word>
+    <Name>Portakal</Name>
+    <Hint>Bir meyve çeşidi</Hint>
+  </Word>
+  <Word>
+    <Name>Vezir parmağı</Name>
+    <Hint>Bir tatlı çeşidi</Hint>
+  </Word>
+  <Word>
+    <Name>Bilgisayar</Name>
+    <Hint>Bir elektronik eşya</Hint>
+  </Word>
+  <Word>
+    <Name>Baklava</Name>
+    <Hint>Bir tatlı çeşidi</Hint>
+  </Word>  
+</Words>
