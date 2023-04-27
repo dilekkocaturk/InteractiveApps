@@ -1,0 +1,14 @@
+﻿<Advertisements>
+  <Ad>
+    <ImageUrl>~/Resources/ad1.gif</ImageUrl>
+    <NavigateUrl>https://www.netflix.com/tr-en/</NavigateUrl>
+    <AlternateText>Advertisement 1</AlternateText>
+    <Keyword>left</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Resources/ad2.gif</ImageUrl>
+    <NavigateUrl>https://www.primevideo.com/offers/nonprimehomepage/ref=atv_hm_offers_c_9zZ8D2_1_0</NavigateUrl>
+    <AlternateText>Advertisement 2</AlternateText>
+    <Keyword>right</Keyword>
+  </Ad>
+</Advertisements>
