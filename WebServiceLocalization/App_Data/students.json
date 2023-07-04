@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "name": "John",
+      "surname": "Smith",
+      "age": "20",
+      "department": "Computer Science"
+    },
+    {
+      "name": "Emily",
+      "surname": "Johnson",
+      "age": "22",
+      "department": "Business Administration"
+    }
+  ]
+}
